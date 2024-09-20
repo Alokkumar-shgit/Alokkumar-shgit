@@ -1,0 +1,30 @@
+.Button{
+    height: 100px;
+    width: 100px;
+    border: 2px black solid;
+    text-align: center;
+    display: inline-block;
+    
+
+
+}
+#grey{
+    background-color: grey;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#white{
+    background-color: white;
+}
+#purple{
+    background-color: purple;
+}
+h1{
+    text-align: center;
+    /* height: 25px; */
+    /* width: 25px; */
+}
